@@ -1,0 +1,12 @@
+/* Empty. Add your own CSS if you like */
+h1{
+	text-align: center;
+	color: #fff;
+	font-size: 500%;
+}
+#clock{
+	padding-top: 50%;
+}
+#main-body{
+	background-color: #000;
+}
